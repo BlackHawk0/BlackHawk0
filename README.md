@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Daniel Ngoya</h1>
 <h3 align="center">I am a student @moringaschool and an aspiring fullstack web developer. Am open to any opportunities and collaborations</h3>
 
 - 😄 Pronouns: **He/Him**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Ruby, React**
+
+- 💬 Ask me about **react, javascript, python**
 
 - 📫 How to reach me **ngoyadaniel4@gmail.com**
 
