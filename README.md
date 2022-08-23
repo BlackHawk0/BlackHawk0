@@ -2,6 +2,7 @@
 <h3 align="center">I am a student @moringaschool and an aspiring fullstack web developer. Am open to any opportunities and collaborations</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhawk0" alt="blackhawk0" /></a> </p>
+
 - 😄 Pronouns: **He/Him**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Ruby, React**
