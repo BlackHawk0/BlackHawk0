@@ -20,6 +20,7 @@
 <a href="https://twitter.com/blackhawk_254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackhawk_254" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-ngoya-404412175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ngoya-404412175" height="30" width="40" /></a>
 <a href="https://medium.com/@danielngoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@danielngoya" height="30" width="40" /></a>
+<a href="https://discord.gg/wizler1 #1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wizler1 #1100" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
