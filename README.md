@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ngoyadaniel4@gmail.com**
 
-- ⚡ Fun fact **Am a formula 1 die hard**
+- **Am a formula 1 die hard**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
