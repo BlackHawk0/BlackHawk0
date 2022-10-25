@@ -19,7 +19,6 @@
 <p> :coffee: Wanna chat? :point_right: @ <a href="https://twitter.com/BlackHawk_254">Twitter </a>
   
 ### :fire: My Stats :
-![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&show_icons=true&theme=dark&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackHawk0&theme=dark&background=000000)](https://git.io/streak-stats)
+![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&show_icons=true&theme=radical&count_private=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackHawk0&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
