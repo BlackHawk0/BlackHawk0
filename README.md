@@ -16,6 +16,9 @@
 </h1>
 <p> Am Daniel. A .js, .rb, .py, .c dev. </p>
 
-
-
-<p> :coffee: Wanna chat? :point_right: @ <a href="https://twitter.com/BlackHawk_254">:Twitter: </a>
+<p> :coffee: Wanna chat? :point_right: @ <a href="https://twitter.com/BlackHawk_254">Twitter </a>
+  
+### :fire: My Stats :
+[  https://github-readme-streak-stats.herokuapp.com/?user=BlackHawk0](https://github-readme-streak-stats.herokuapp.com/?user=BlackHawk0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
