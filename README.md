@@ -19,6 +19,8 @@
 <p> :coffee: Wanna chat? :point_right: @ <a href="https://twitter.com/BlackHawk_254">Twitter </a>
   
 ### :fire: My Stats :
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhawk0&show_icons=true&locale=en&layout=compact" alt="blackhawk0" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhawk0&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="blackhawk0" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhawk0&show_icons=true&locale=en" alt="blackhawk0" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
