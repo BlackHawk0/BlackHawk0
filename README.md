@@ -18,4 +18,4 @@
 
 
 
-<p> :coffee Wanna chat? :point_right @ <a href="https://twitter.com/BlackHawk_254">Twitter </a>
+<p> :coffee: Wanna chat? :point_right: @ <a href="https://twitter.com/BlackHawk_254">Twitter </a>
