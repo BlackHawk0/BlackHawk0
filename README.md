@@ -25,9 +25,10 @@
 </p>
   
 ### :fire: My Stats :
-![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
+<!-- ![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  -->
+[![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&theme=algolia&show_icons=true)](https://github.com/BlackHawk0)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlackHawk0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://wakatime.com/@df369f52-2593-4f2f-9c97-7739f7021949"><img src="https://wakatime.com/badge/user/df369f52-2593-4f2f-9c97-7739f7021949.svg" alt="Wakatime" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=BlackHawk0&theme=algolia&show_icons=true)](https://github.com/BlackHawk0)
+
