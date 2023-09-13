@@ -24,7 +24,7 @@
   
 </p>
 
-![animation](https://github.com/BlackHawk0/BlackHawk0/blob/output/github-grid-snake.svg)
+![animation](https://github.com/jimmytron/jimmytron/blob/output/github-grid-snake.svg)
   
 ### :fire: My Stats :
 [![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&theme=algolia&show_icons=true&count_private=true)](https://github.com/BlackHawk0)
