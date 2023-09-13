@@ -1,6 +1,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: generate-snake-game-from-github-contribution-grid
 
 # Controls when the action will run. This action runs every 6 hours.
 
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3.0.0
         id: snake-gif
   
         with:
