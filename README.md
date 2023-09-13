@@ -23,6 +23,8 @@
   <a href="https://github.com/BlackHawk0"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
+
+![animation](https://github.com/BlackHawk0/BlackHawk0/blob/output/github-grid-snake.svg)
   
 ### :fire: My Stats :
 [![Daniel Ngoya GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackHawk0&theme=algolia&show_icons=true&count_private=true)](https://github.com/BlackHawk0)
