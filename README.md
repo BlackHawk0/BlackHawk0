@@ -14,7 +14,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p> Am Daniel. A .js, .rb, .py, .c dev. </p>
+<p> Am Daniel. A .js, .rb, .py, ml, .c dev. </p>
 
 <p> :coffee: Wanna chat? </p>
 <p>
