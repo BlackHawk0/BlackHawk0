@@ -66,14 +66,7 @@ I’m **Daniel** — I build products with **TypeScript/JavaScript**, **Python**
   <br/>
 
   <!-- Streak -->
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=BlackHawk0&hide_border=true&mode=weekly&theme=transparent#gh-dark-mode-only" />
-    <source
-      srcset="https://streak-stats.demolab.com?user=BlackHawk0&hide_border=true&mode=weekly&theme=default#gh-light-mode-only" />
-    <img src="https://streak-stats.demolab.com?user=BlackHawk0&hide_border=true&mode=weekly"
-         alt="GitHub Streak" />
-  </picture>
+![BlackHawk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackHawk0&theme=vue-dark&hide_border=false)
 
   <!-- WakaTime -->
   <p>
